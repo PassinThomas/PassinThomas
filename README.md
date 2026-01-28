@@ -50,13 +50,4 @@ Here are some ideas to get you started:
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ---
-
-#### 📊 Statistiques GitHub
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USER_GITHUB&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USER_GITHUB&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
-
----
 [LinkedIn](https://www.linkedin.com/in/thomas-passin/) • [Email](mailto:passin.thomas@gmail.com)
