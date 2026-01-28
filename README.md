@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Thomas 👋
 
 <!--
 **PassinThomas/PassinThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Salut ! 👋
-
 #### 🚀 Aspiring Backend Go & Cloud Engineer
 
 Étudiant à **l'École 42**, je combine une solide base en programmation système (C/C++) avec une passion grandissante pour l'écosystème **Cloud Native**. Je transitionne actuellement vers le développement **Backend Go** et les pratiques **DevOps**.
