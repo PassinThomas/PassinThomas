@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 </p>
 
 ---
-[LinkedIn](https://www.linkedin.com/in/ton-profil) • [Email](mailto:ton.email@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/thomas-passin/) • [Email](mailto:passin.thomas@gmail.com)
